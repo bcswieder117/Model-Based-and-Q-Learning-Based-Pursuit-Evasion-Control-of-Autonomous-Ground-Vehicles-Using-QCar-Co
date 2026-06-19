@@ -2,7 +2,7 @@
 
 A portfolio of code, experiments, and documentation for my MSc Thesis at Tennessee Tech University. My research sits at the intersection of optimal control, game-theoretic multi-agent systems, and reinforcement learning, with applications to pursuit–evasion and autonomous vehicles.
 
-This will be presented at the Tennessee Tech Research Day 2026, the link about the event is given here: https://www.tntech.edu/research/research-day.php
+This was presented at the Tennessee Tech Research Day 2026, the link about the event is given here: https://www.tntech.edu/research/research-day.php
 
 The thesis defense will be the third week of July. All materials will be uploaded then and a link to ProQuest will also be provided no later than 7/31/2026
 
