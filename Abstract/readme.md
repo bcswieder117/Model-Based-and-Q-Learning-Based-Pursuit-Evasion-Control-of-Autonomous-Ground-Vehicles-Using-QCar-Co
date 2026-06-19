@@ -1,4 +1,4 @@
-# Model-Based and Learning-Based Pursuit-Evasion Control: A Benchmark Comparison of Linear-Quadratic Game Theory and Deep Reinforcement Learning
+# Model-Based and Q-Learning-Based Pursuit-Evasion Control of Autonomous Ground Vehicles Using QCar-Compatible State-Space Models
 
 ## Abstract
 
