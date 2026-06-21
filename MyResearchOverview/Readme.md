@@ -1,1 +1,0 @@
-These were presentations for my ECE 6910 seminar I took Fall 2025 @ Tennessee Tech. This is a glance at my optimistic goals of research during my doctoral degree whereever I am accepted in the 2026-2027 academic year.
