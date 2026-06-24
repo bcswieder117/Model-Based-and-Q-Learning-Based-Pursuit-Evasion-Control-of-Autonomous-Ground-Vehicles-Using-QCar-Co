@@ -4,7 +4,7 @@ A portfolio of code, experiments, and documentation for my MSc Thesis at Tenness
 
 This was presented at the Tennessee Tech Research Day 2026, the link about the event is given here: https://www.tntech.edu/research/research-day.php
 
-The thesis defense will be the third week of July. All materials will be uploaded then and a link to ProQuest will also be provided no later than 7/31/2026
+The thesis defense will be the third week of July. All materials will be uploaded then and a link to ProQuest will also be provided no later than 8/24/2026.
 
 ## Abstract
 
