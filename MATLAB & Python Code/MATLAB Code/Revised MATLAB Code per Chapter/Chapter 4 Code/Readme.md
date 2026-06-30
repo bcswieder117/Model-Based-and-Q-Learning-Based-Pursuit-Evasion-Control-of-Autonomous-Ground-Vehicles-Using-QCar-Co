@@ -232,6 +232,6 @@ The results should be interpreted as a simulation-based model-based benchmark.
 ## Thesis Citation
 
     Blaine Schwieder
-    Model-Based and Q-Learning-Based Pursuit–Evasion Control of Autonomous Ground Vehicles Using QCar
+    Model-Based and Q-Learning-Based Pursuit-Evasion Control of Autonomous Ground Vehicles Using QCar-Compatible State-Space Models
     Master of Science Thesis
     Tennessee Technological University
